@@ -87,14 +87,15 @@ body, html {
 }
 .container .box .role p {
   animation: secFadeIn 2s forwards;
-  animation-delay: 3.2s;
+  animation-delay: 3.5s;
   opacity: 0;
   font-weight: 400;
   font-family: "Lato";
   color: #ffffff;
-  font-size: 12px;
+  font-size: 15px;
   text-transform: uppercase;
   letter-spacing: 5px;
+  display: inline-block;
 }
 
 @keyframes mainBlock {
