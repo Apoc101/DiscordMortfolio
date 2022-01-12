@@ -17,8 +17,9 @@ body, html {
   align-items: center;
 }
 .container .box {
-  width: 250px;
-  height: 250px;
+  left: -3%;
+  width: 400px;
+  height: 400px;
   position: relative;
   display: flex;
   justify-content: center;
